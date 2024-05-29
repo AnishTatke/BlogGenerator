@@ -1,3 +1,9 @@
-# BlogGenerator
+# Blog Generator
 
-A simple Inference based implementation to explore various LLM models and their applications. Built using LangChain and StreamLit.
+This project explores a inference based application to test LLM models to generate Blogs based on given topics, number of words and target audience of the Blogs. The application also gives the user, an option to choose multiple models for Blog Text Generation.
+
+### Future Development
+
+- Integration on Image models for designing blogs.
+- QnA based LLM for chat and Blog Discussions.
+- Improve formatting and add more user parameters.
