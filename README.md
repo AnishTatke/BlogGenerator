@@ -7,3 +7,6 @@ This project explores a inference based application to test LLM models to genera
 - Integration on Image models for designing blogs.
 - QnA based LLM for chat and Blog Discussions.
 - Improve formatting and add more user parameters.
+
+### Demo
+![Blog Generator](public\BlogGen.gif)
