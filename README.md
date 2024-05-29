@@ -9,4 +9,4 @@ This project explores a inference based application to test LLM models to genera
 - Improve formatting and add more user parameters.
 
 ### Demo
-![Blog Generator](public\BlogGen.gif)
+![Blog Generator](https://github.com/AnishTatke/BlogGenerator/blob/master/public/BlogGen.gif)
